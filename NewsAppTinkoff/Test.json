@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 23,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Mail.ru"
+            },
+            "author": "Российская газета",
+            "title": "В России появился хэтчбек Suzuki за 1,5 млн рублей - Авто Mail.ru",
+            "description": "Один из дилеров привез в Россию Suzuki Celerio. Как выяснила «Российская газета», за хэтчбек 2022 года без пробега просят 1 590 000 рублей",
+            "url": "https://auto.mail.ru/article/86431-v-rossii-poyavilsya-hetchbek-suzuki-za-15-mln-rubl/",
+            "urlToImage": "https://resizer.mail.ru/p/8f70813f-1f6e-57ec-a97f-cb05778d060e/AQABKvyhagf_4cFEqi0oZ8RKbzuIN8lg_r8V02xGd-6eUcutWCk_k_d9GjkL_pp8pNYJn1A_9Mn2Y2vQbiZXjRM-670.jpg",
+            "publishedAt": "2023-02-05T07:00:21Z",
+            "content": "— 1,0 , 68 .. (89 ).  — «».\r\n 2021 .   Heartect,   Swift, Ignis  Wagon R.  Celerio   . -    .\r\n — 3695 ,  — 1555 ,  — 1655 ,    — 2435 .  — 313 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor.ru"
+            },
+            "author": "Сергей Ильин",
+            "title": "В Москве продают универсал Mercedes из Гаража особого назначения - Motor.ru",
+            "description": "В Москве продают универсал Mercedes-Benz E-Класса из Гаража особого назначения. Речь идёт об автомобиле 2002 года выпуска, списанном из регионального подразделения Федеральной службы охраны. Почти всю жизнь «Мерседес» провёл на Валдае (Новгородская область). …",
+            "url": "https://motor.ru/news/mb-s210-fso-sale-05-02-2023.htm",
+            "urlToImage": "https://motor.ru/imgs/2023/02/04/22/5781963/b01ddfc689d01d11bac9cd9211ed4ee4403059dd.jpg",
+            "publishedAt": "2023-02-05T06:09:00Z",
+            "content": "Mercedes-Benz E-Class , , , : , , - ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Belnovosti.by"
+            },
+            "author": "Игорь Зур",
+            "title": "Чем лучше подкормить пионы, чтобы бутоны были крупные и красивые - Белновости",
+            "description": "Две важные подкормки и несколько советов по выращиванию пионов - будут цвести пышно и долго.",
+            "url": "https://www.belnovosti.by/sad-i-ogorod/chem-luchshe-podkormit-piony-chtoby-butony-byli-krupnye-i-krasivye",
+            "urlToImage": "https://www.belnovosti.by/sites/default/files/2023-02/IMG_20220612_092203_compressed.jpg",
+            "publishedAt": "2023-02-05T00:30:00Z",
+            "content": ", .\r\n, . \r\n . \r\n 10- 1 2 . \r\n 10 .\r\n . 7 ., \"\". 1 1 .\r\n, - . , .\r\n , 20 . 10 . 3 .\r\n, .\r\n . \r\n , . .\r\n . , , . , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livejournal.com"
+            },
+            "author": null,
+            "title": "Сегодня ровно месяц, как я в Хургаде: сколько потратил и как живу - LiveJournal",
+            "description": "4 января 2023 года я прилетел в Египет. Прошёл месяц, рассказываю о своих впечатлениях и том, как у меня дела. Впервые в жизни я прожил месяц не дома. Удивительно, но раньше я никогда не жил где-либо ещё, кроме своей квартиры, так долго. Мне здесь не скучно, …",
+            "url": "https://ammo1.livejournal.com/1379413.html",
+            "urlToImage": "https://l-files.livejournal.net/og_image/8125164/5388?v=1675533651",
+            "publishedAt": "2023-02-04T21:02:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor.ru"
+            },
+            "author": "Сергей Ильин",
+            "title": "BMW объяснила, почему обновления несовместимы с парковкой на склоне - Motor.ru",
+            "description": "BMW объяснила, почему обновления программного обеспечения несовместимы с парковкой на склоне. В ответ на запрос The Drive автопроизводитель подтвердил, что у новых моделей есть всевозможные датчики, которые позволяют оценить ориентацию в пространстве и не доп…",
+            "url": "https://motor.ru/news/bmw-soft-upgrade-04-02-2023.htm",
+            "urlToImage": "https://motor.ru/imgs/2023/02/04/18/5781915/453c8c2d7b29497b562b03f4e229060d0ba2fef7.jpg",
+            "publishedAt": "2023-02-04T19:55:00Z",
+            "content": ", , . The Drive BMW, « » : , , , P .\r\n , BMW , «» ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vc.ru"
+            },
+            "author": "Страшный парфюмер",
+            "title": "Google вложил $300-400 млн в ИИ-стартап Anthropic, основанный выходцами из OpenAI — СМИ — Финансы на vc.ru - vc.ru",
+            "description": "Он также разработал чат-бота — но тот пока находится в закрытом тестировании.",
+            "url": "https://vc.ru/finance/599692-google-vlozhil-300-400-mln-v-ii-startap-anthropic-osnovannyy-vyhodcami-iz-openai-smi",
+            "urlToImage": "https://vc.ru/cover/fb/c/599692/1675523664/cover.jpg",
+            "publishedAt": "2023-02-04T15:15:46Z",
+            "content": "- .\r\n<ul><li>Google Cloud, Google, Anthropic, , . , Anthropic Google Cloud .</li><li> FT, Google Anthropic 10%. , Google Cloud.</li><li> Bloomberg , $400 , Google.</li><li>Anthropic 2021 , OpenAI, . … [+6083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Экономика России вырастет! Золото будет дорожать. И что не так с акциями Tesla? / БПН - БКС Мир инвестиций",
+            "description": "«Без плохих новостей» — еженедельное новостное шоу об инвестициях на канале «БКС Мир инвестиций», в котором Максим Шеин доказывает, что на каждой новости, ка...",
+            "url": "https://www.youtube.com/watch?v=oDQrlvU96ug",
+            "urlToImage": "https://i.ytimg.com/vi/oDQrlvU96ug/maxresdefault.jpg",
+            "publishedAt": "2023-02-04T13:00:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor.ru"
+            },
+            "author": "Александр Пономарёв",
+            "title": "Ford анонсировал новый вариант Mustang - Motor.ru",
+            "description": "Осенью 2022 года состоялась премьера седьмого поколения спорткара Ford Mustang — новую модель показали сразу в нескольких версиях, которые отличаются не только типами кузова и силовой установкой, но и своим предназначением. Наряду с дорожными вариантами леген…",
+            "url": "https://motor.ru/news/new-mustang-04-02-2023.htm",
+            "urlToImage": "https://motor.ru/imgs/2023/02/04/10/5781351/247fdcf9381cb20a234c8a79cefb070cc8291882.jpeg",
+            "publishedAt": "2023-02-04T11:00:00Z",
+            "content": "2022 Ford Mustang , , . . . Ford Performance, « », ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autonews.ru"
+            },
+            "author": null,
+            "title": "Три новые модели и древесина с завода Ford. Новости авторынка за неделю - Autonews.ru",
+            "description": "На «Автоторе» начали выпускать китайские автомобили, АвтоВАЗ назвал цены на топовые версии Lada Niva, Changan запустил продажи конкурента Skoda Octavia в России, а на бывшем заводе Ford займутся деревообработкой",
+            "url": "https://www.autonews.ru/news/63dd0e7d9a794752394cb029",
+            "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/8/61/756754339142618.jpg",
+            "publishedAt": "2023-02-04T09:03:29Z",
+            "content": "Kaiyi\r\n «» Kaiyi. BMW, Kia Hyundai. E5. 2023 . «» , 1 .\r\nKaiyi . X3 X3 Pro, « 3», Hyundai Creta, Geely Coolray Haval Jolion. X7 Kunlun, Chery Tiggo 8.\r\n 47%\r\n 42,2 . . 47% . «». , 80% (18,4 . 17,2 . … [+586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mail.ru"
+            },
+            "author": "Российская газета",
+            "title": "В России начали продавать кроссовер Ford Puma - Авто Mail.ru",
+            "description": "Кроссовер Ford Puma добрался до России. Как выяснила «Российская газета», один из дилеров за машину 2022 года с минимальным пробегом просит 3 172 000 рублей",
+            "url": "https://auto.mail.ru/article/86430-v-rossii-nachali-prodavat-krossover-ford-puma/",
+            "urlToImage": "https://resizer.mail.ru/p/ec8ad00c-242b-5bf8-a2b0-f5584b4c0fe9/AQABifrQ17tMXXz9gWmhG8l8NnDxZ7NGRF_yr2o-RHczphLM6H-jaPfH3Yrx8JzCkiR0xSTdT2WiyukWDCUik9Sy7FM.jpg",
+            "publishedAt": "2023-02-04T07:20:10Z",
+            "content": "1,0      48- - (BISG),        ,     «-»,   — 20   ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Shazoo.ru"
+            },
+            "author": null,
+            "title": "Против ютубера Логана Пола оформили групповой иск из-за невышедшей NFT-игры - Shazoo",
+            "description": "Иск оформил офицер полиции, потративший на несуществующую игру 3000 долларов",
+            "url": "https://shazoo.ru/2023/02/04/138896/protiv-iutubera-logana-pola-oformili-gruppovoi-isk-iz-za-nevysedsei-nft-igry",
+            "urlToImage": "https://cdn.shazoo.ru/671936_tklRMbJ_eamseexdev.jpg",
+            "publishedAt": "2023-02-04T07:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quote.ru"
+            },
+            "author": null,
+            "title": "Что будет с акциями НОВАТЭКа в 2023 году: прогнозы экспертов - РБК Инвестиции - РБК Инвестиции",
+            "description": "НОВАТЭК не зависит от поставок трубопроводного газа, исторически ориентирован на рынки Азии и Южной Америки, однако смог нарастить экспорт в Европу. Выяснили у экспертов, чего ждать от акций компании ...",
+            "url": "https://quote.ru/news/article/63dab7349a794712592b3506",
+            "urlToImage": "https://s.rbk.ru/v6_quoteru_static/images/head/share-quote.png",
+            "publishedAt": "2023-02-04T05:33:28Z",
+            "content": "«» . , 2021   «»     32,2%.   2022 25%.   2022 : 4,5%.\r\n «» , 2022 52,52% , 14,9%. , 37,28%. , 2022 43,12%.\r\n «» . « », Reuters: , « » . 15 2023 180 - ( $2 . 1 . . ). «» , 100,9 . ( 2021   185,1 . ).… [+571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mail.ru"
+            },
+            "author": "Павел Ёлшин",
+            "title": "20 самых невыгодных авто и Camaro в заброшенном подвале - Авто Mail.ru",
+            "description": "На этой неделе мы рассказывали про машины, которые резко теряют в цене, и про те, которые лучше всех сохраняют стоимость. Еще появилась удивительная новость: в заброшенном подвале нашли Camaro. А начнем мы обзор с новинок авторынка",
+            "url": "https://auto.mail.ru/article/86423-20-samyih-nevyigodnyih-avto-i-camaro-v-zabroshenno/",
+            "urlToImage": "https://resizer.mail.ru/p/29574c7e-5ea7-53fa-8b4b-0da7b67568ae/AQABJcoBelPqy3nWdv9frW0KAxG3vqDxAMNhuxto3MIqVawKe24ETHv4aDGkht5DbHSPDk3oIzypFA_NbdyBrmivcU8.jpg",
+            "publishedAt": "2023-02-04T05:00:18Z",
+            "content": "3  Voyah  ,     . Voyah Dream   Voyah Zhuiguang (  , , ).  —   « Voyah  ».\r\n45 231 , 2022 85 932 . «» ( , , «» ).\r\n, , — : Kia Hyundai 81−83%, «» «» — 85%, Renault — 92%. «» (+8,8%), — : Chery Geely … [+791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Naavtotrasse.ru"
+            },
+            "author": "Федор Аверьев",
+            "title": "Lada Vesta 2023 года: последние новости о модели - Наавтотрассе.ру",
+            "description": "Компания \"АвтоВАЗ\", судя по поступающей информации, успешно решает проблемы, которые возникли в связи с выводом на российский рынок новой Lada Vesta 2023",
+            "url": "https://naavtotrasse.ru/vaz/vse-chto-nuzhno-znat-o-novoj-lada-vesta-2023-2.html",
+            "urlToImage": "https://i.trse.ru/2023/02/kt9W.webp",
+            "publishedAt": "2023-02-04T02:38:35Z",
+            "content": "««, , , Lada Vesta 2023 . . , 10- . , , .\r\n, «» . , , . , «» - . , . 2023 . 2 .\r\n «» «» . , . 2024 . «». . , , «». , «» . . , 2024 .\r\n. , . «», , Vesta. , - , . , «» 2022 32 . , , : 36 .\r\n «» , . , .… [+80 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Profinance.ru"
+            },
+            "author": null,
+            "title": "Курс доллара взлетел после выхода неожиданно сильного отчета по рынку труда - ProFinance.Ru",
+            "description": "Доллар вырос, а фьючерсы на акции США снизились после того, как январский отчет о занятости указал на все еще горячий рынок труда, подчеркнув, что у Федеральной резервной системы есть больше возможностей для дальнейшего повышения ставок.",
+            "url": "https://www.profinance.ru/news/2023/02/03/c82f-kurs-dollara-vzletel-posle-vykhoda-neozhidanno-silnogo-otcheta-po-rynku-truda.html",
+            "urlToImage": "https://www.profinance.ru/img/top01-200x200.jpg",
+            "publishedAt": "2023-02-03T18:48:46Z",
+            "content": "1 \r\n , 10- 3,48%. .  0,55% 102,35. 0,53% 1,08545 . 0,80% 129,74.\r\n , , .\r\n 517 000 , 223 000 . , 260 000 223 000. , - , .\r\n3,4 . 0,3% 0,4% . 4,4% 4,8% . , Reuters, 185 000, 4,3% . , Dow Jones, 187 00… [+293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoreview.ru"
+            },
+            "author": null,
+            "title": "Voyah в России: на подходе минивэн и седан - Авторевю",
+            "description": "Voyah в России: на подходе минивэн и седан",
+            "url": "https://autoreview.ru/news/voyah-v-rossii-na-podhode-miniven-i-sedan",
+            "urlToImage": "https://autoreview.ru/images/Article/1751/Article_175199_860_575.jpg",
+            "publishedAt": "2023-02-03T17:09:23Z",
+            "content": "Voyah : , Evolute . Voyah Free , 8 7,3 . .\r\nVoyah Dream. 5315 Voyah Dreamer . ( VIP-), . Dream .\r\n: ( 394 .. 610 ), 1.5 (136 ..). , : , , . 25,6 , GB/T, 7 . ( ).\r\n- , 8,3 , «» , . , Mercedes V- Toyot… [+94 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gismeteo.ru"
+            },
+            "author": null,
+            "title": "Модели авто, которые чаще всего угоняли в ушедшем году - GISMETEO.Новости",
+            "description": "Самыми угоняемыми в минувшем году оказались машины Hyundai Tucson, Mitsubishi Outlander и Kia Sorento.",
+            "url": "https://www.gismeteo.ru/news/auto/modeli-avto-kotorye-chashhe-vsego-ugonyali-v-ushedshem-godu/",
+            "urlToImage": "https://news-ru.gismeteo.st/2023/02/shutterstock_1990526813.jpg",
+            "publishedAt": "2023-02-03T16:05:31Z",
+            "content": "Hyundai Tucson, Mitsubishi Outlander Kia Sorento, «».\r\n© Mike Mareen / Shutterstock.com\r\nHyundai Creta, Honda CR-V, Toyota Camry, 2 RenaultSanderoDuster 2 KiaCeedRio. : , .\r\n, «», Hyundai Santa Fe, .… [+160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vc.ru"
+            },
+            "author": "Андрей Герцен",
+            "title": "Пытаюсь заставить ChatGPT рассмешить меня — Офтоп на vc.ru - vc.ru",
+            "description": "Привет! О нейросетях сейчас настолько много пишут (хе-хе), что от количества получаемой информации можно запросто устать. Поэтому я решил подготовить лёгкий пятничный текст с очередными издевательствами над высоким разумом.",
+            "url": "https://vc.ru/flood/599157-pytayus-zastavit-chatgpt-rassmeshit-menya",
+            "urlToImage": "https://vc.ru/cover/fb/c/599157/1675439742/cover.jpg",
+            "publishedAt": "2023-02-03T15:55:42Z",
+            "content": "! (-), . . \r\n{\"id\":599157,\"type\":\"num\",\"link\":\"https:\\/\\/vc.ru\\/flood\\/599157-pytayus-zastavit-chatgpt-rassmeshit-menya\",\"gtm\":\"\",\"prevCount\":null,\"count\":81,\"isAuthorized\":false} \r\n{\"id\":599157,\"typ… [+1065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoreview.ru"
+            },
+            "author": null,
+            "title": "Кроссовер Zeekr X: третья и младшая модель в гамме - Авторевю",
+            "description": "Кроссовер Zeekr X: третья и младшая модель в гамме",
+            "url": "https://autoreview.ru/news/krossover-zeekr-x-tret-ya-i-mladshaya-model-v-gamme",
+            "urlToImage": "https://autoreview.ru/images/Article/1751/Article_175197_860_575.jpg",
+            "publishedAt": "2023-02-03T13:52:54Z",
+            "content": "Zeekr 003, 001009. Geely , Zeekr . Zeekr X.\r\n, BMW X1 Volvo XC40. 4450 , 1836 , 1572 , 2750 . Zeekr X : - , Geely Bentley, ! , : - .\r\nh- , 41 , . , . : .\r\n: . , . , Zeekr X SEA (Sustainable Experienc… [+59 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mail.ru"
+            },
+            "author": "Газета.Ру",
+            "title": "Land Rover представила обновленный кроссовер Range Rover Velar - Авто Mail.ru",
+            "description": "Компания Land Rover официально представила рестайлинговую версию кроссовера Range Rover Velar",
+            "url": "https://auto.mail.ru/article/86427-land-rover-predstavila-obnovlennyij-krossover-rang/",
+            "urlToImage": "https://resizer.mail.ru/p/b7aac8eb-fa80-553f-89e4-80f00a89052b/AQABWTD7ymbtBilJozv-zFJu0T-6SdOcuGRZ0ndkznS70RFKv0nLEhSKf6FMistRiQrMbKPfclC30cXqTykkomFL6-c.jpg",
+            "publishedAt": "2023-02-03T13:30:32Z",
+            "content": "- , 2017 . . , - . . 11,4 ."
+        }
+    ]
+}
